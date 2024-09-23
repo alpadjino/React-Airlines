@@ -1,0 +1,11 @@
+:root {
+  --color-blue: #0087c9;
+  --color-orange: #ffb168;
+  --color-light-gray: #e6e6e6;
+  --color-dark-gray: #a2a2a2;
+}
+
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    font-style: regular;
+}
